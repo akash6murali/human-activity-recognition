@@ -1,2 +1,5 @@
 data/
-.DS_Store
+wandb/
+best_model.pth
+__pycache__/
+*.pyc
