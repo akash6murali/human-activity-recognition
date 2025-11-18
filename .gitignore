@@ -4,3 +4,10 @@ best_model.pth
 __pycache__/
 *.pyc
 *.png
+.DS_Store
+Models/preprocessed/feature_names.npy
+Models/preprocessed/P.npy
+Models/preprocessed/T.npy
+Models/preprocessed/X_features.npy
+Models/preprocessed/X.npy
+Models/preprocessed/Y_WillettsSpecific2018.npy
