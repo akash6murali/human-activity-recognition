@@ -1,9 +1,11 @@
 data/
 wandb/
 best_model.pth
+*.pth
 __pycache__/
 *.pyc
 *.png
+*.csv
 .DS_Store
 Models/preprocessed/feature_names.npy
 Models/preprocessed/P.npy
